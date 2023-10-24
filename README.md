@@ -3,7 +3,7 @@
 ![datascience](https://github.com/becerraj/Data-Science/assets/144182632/01439432-2e69-4745-b2f3-2f599236804d)
 
 
-Este proyecto muestra el desarrollo completo que haria en caso de tener un proyecto de Data Science.
+Este proyecto muestra el desarrollo completo de un proyecto de Data Science enfocado en retail. 
 Se trata del analisis de un dataset de ventas de productos en diferentes locales. Buscamos predecir las ventas que tiene cada producto dependiendo del local donde se vendio.
 
 En el mismo vamos he desarrollado un pipeline que puede simplificarse como:
